@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://asishpradhan01.github.io/Book-Finder/",
+  "homepage": "https://github.com/asishpradhan01/Book-Finder",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
